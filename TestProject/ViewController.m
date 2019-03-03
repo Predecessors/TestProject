@@ -18,6 +18,9 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     self.view.backgroundColor = [UIColor redColor];
+    
+    //修改内容
+    self.view.backgroundColor = [UIColor blueColor];
 }
 
 
